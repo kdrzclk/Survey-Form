@@ -1,0 +1,78 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  color: white;
+  background-color: black;
+}
+
+#ana {
+  width: 50%;
+  margin: 20px auto;
+  background-color: grey;
+  padding-left: 20px;
+  border-radius: 10px;
+}
+
+h1 {
+  font-size: 75px;
+}
+
+p {
+  font-size: 25px;
+}
+
+#container {
+  font-size: 22px;
+  margin-top: 20px;
+}
+
+#name,
+#surname,
+#email,
+#role {
+  margin-bottom: 15px;
+  height: 35px;
+  width: 250px;
+  font-size: 18px;
+}
+
+#recommend {
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+
+#recommend label {
+  font-size: 22px;
+}
+
+#fav-feature {
+  height: 35px;
+  width: 250px;
+  font-size: 18px;
+}
+
+#improved {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+#improved label {
+  font-size: 22px;
+}
+
+#com-sug {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px;
+}
+
+#submit {
+  width: 100px;
+  height: 30px;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
